@@ -2,7 +2,6 @@
 
 > **High-assurance AgentOS microkernels, distributed state fabrics, and runtime infrastructure for autonomous AI systems.**
 
-[![Website](https://img.shields.io/badge/Website-eip--technologies.com-0891b2?style=flat&logo=globe&logoColor=white)](https://eip-technologies.com)
 [![Labs Portal](https://img.shields.io/badge/Labs%20Portal-eip--labs.github.io-00d2e0?style=flat&logo=githubpages&logoColor=white)](https://eip-labs.github.io/)
 [![Runtime](https://img.shields.io/badge/Runtime-Pure%20Go%201.25%2B-0284c7?style=flat&logo=go&logoColor=white)](https://golang.org)
 [![License](https://img.shields.io/badge/License-BSL%201.1%20%E2%86%92%20LGPL%20Convertible-blueviolet?style=flat)](https://github.com/eip-labs)
