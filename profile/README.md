@@ -19,15 +19,57 @@ We research, engineer, and architect native computational substrates for autonom
 
 EIP-Labs engineers a modular systems portfolio centered around a flagship AgentOS microkernel nucleus and six specialized satellite engines:
 
-| Engine | Designation | Domain Specialization | Core Invariants |
-| :--- | :--- | :--- | :--- |
-| **EAE** | `Flagship Core` | **AgentOS Microkernel Runtime** | 4.0 µs spawn latency, 1.0 ns zero-alloc IPC, 100k+ agents/host |
-| **EBE** | `Satellite 01` | **Autonomous Blockchain Engine** | Pure Go Ethereum client, ERC-4337 smart accounts, HSM PKCS#11 isolation |
-| **ESE** | `Satellite 02` | **Sandboxed Scripting VM** | Fuel-throttled bytecode VM for live cluster edge logic hot-patching |
-| **EKE** | `Satellite 03` | **Hybrid Knowledge Engine** | Fused HNSW dense vector indexing + RDF (Subject-Predicate-Object) graphs |
-| **EME** | `Satellite 04` | **Distributed Memory Fabric** | Multi-tenant row encryption (AES-256-GCM), active-active cross-region sync |
-| **ETE** | `Satellite 05` | **Industrial Capability Broker** | Native bus drivers (CAN, Modbus, RS-485 serial) with adaptive EMA circuit breakers |
-| **EGE** | `Satellite 06` | **eBPF Perimeter Gateway** | 1.2M+ RPS ingress proxy with kernel-enforced token quotas and mTLS |
+#### **EBE — Enterprise Blockchain Engine**
+A secure payment layer that allows AI agents to make automated transactions, interact with smart contracts, and manage digital assets.
+
+* • Automated Agent Payments
+* • Secure Key & Wallet Protection
+* • Self-Contained Blockchain Support
+
+---
+
+#### **ESE — Enterprise Scripting Engine**
+A safe execution environment to update agent rules and business logic on the fly without stopping or restarting the system.
+
+* • Live Logic Updates Without Downtime
+* • Safe & Isolated Code Execution
+* • Loop & Overload Protection
+
+---
+
+#### **EKE — Enterprise Knowledge Engine**
+A smart search and retrieval store that organizes complex company data and connects facts with meaningful relationships.
+
+* • Fast Semantic Search & Retrieval
+* • Structured Knowledge Connections
+* • Scalable Across Multiple Servers
+
+---
+
+#### **EME — Enterprise Memory Engine**
+A persistent, encrypted memory system that keeps agent context, conversation history, and past tasks synchronized across servers.
+
+* • Long-Term Agent Memory
+* • Fully Encrypted & Private Storage
+* • Instant Synchronization Across Clouds
+
+---
+
+#### **ETE — Enterprise Tool Engine**
+A reliable bridge that allows agents to interact safely with external software APIs, databases, physical sensors, and industrial machinery.
+
+* • External API & Tool Integration
+* • Physical Device & Sensor Support
+* • Automatic Failure Safeguards
+
+---
+
+#### **EGE — Enterprise Gateway Engine**
+A high-speed security checkpoint that protects agent networks from malicious traffic, controls access limits, and encrypts network calls.
+
+* • Ultra-Fast Traffic Control
+* • Overload & Rate-Limit Defense
+* • Encrypted End-to-End Security
 
 ---
 
