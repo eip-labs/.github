@@ -1,4 +1,4 @@
-# EIP-Labs
+# EIP-LABS
 
 > **Enterprise-grade runtime infrastructure and tools for autonomous AI agents.**
 
@@ -23,4 +23,4 @@ This GitHub organization is our public space to share selected work with the com
 ### 🔗 Connect With Us
 * **LinkedIn:** [linkedin.com/company/eip-labs](https://www.linkedin.com/company/eip-labs)
 * **Website:** [eip-technologies.com](https://eip-technologies.com)
-* **Email:** contact@eip-technologies.com
+* **Email:** labs@eip-technologies.com
