@@ -11,7 +11,7 @@
 
 **EIP-Labs** is the foundational Systems Research and Development laboratory of [**EIP-Technologies**](https://eip-technologies.com). 
 
-We research, architect, and engineer native computational substrates for autonomous artificial intelligence from line zero. By fusing the discipline of aerospace RTOS microkernels, high-frequency trading concurrency, and formal distributed systems theory, we replace fragile Python wrappers and unmanaged runtime pauses with **deterministic, zero-allocation Go systems**.
+We research, engineer, and architect native computational substrates for autonomous artificial intelligence from line zero. By fusing the discipline of aerospace RTOS microkernels, high-frequency trading concurrency, and formal distributed systems theory, we replace fragile Python wrappers and unmanaged runtime pauses with **deterministic, zero-allocation Go systems**.
 
 ---
 
