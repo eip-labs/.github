@@ -100,6 +100,12 @@ This GitHub organization is our public proving ground to share foundational syst
 
 ---
 
+🚀 **Staggered Public Release Roadmap:**  
+Each engine in the EIP ecosystem will be made publicly available sequentially according to the scheduled roadmap. Repositories, documentation, and tools will be published **one by one on their designated release dates**. Follow this page to track each engine's launch.
+
+---
+
+
 ### 📬 Connect & Collaborate
 
 * **Laboratory Portal:** [eip-labs.github.io](https://eip-labs.github.io/)
